@@ -1,0 +1,6 @@
+D:\sync\00_ICH\learning\c sharp\konsolenratespiel\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+D:\sync\00_ICH\learning\c sharp\konsolenratespiel\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+D:\sync\00_ICH\learning\c sharp\konsolenratespiel\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+D:\sync\00_ICH\learning\c sharp\konsolenratespiel\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
+D:\sync\00_ICH\learning\c sharp\konsolenratespiel\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+D:\sync\00_ICH\learning\c sharp\konsolenratespiel\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
